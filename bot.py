@@ -3,7 +3,7 @@ from discord.ext import commands
 import asyncio
 
 # Укажите токен бота и ID роли
-DISCORD_BOT_TOKEN = "MTEzMzE0MTk0MTg1NzU1MDUxNw.GF13b4.m4Wh1GjwN1NvgX56wgASUy81wa49Jb_AriorCI"
+DISCORD_BOT_TOKEN = "MTEzMzE0MTk0MTg1NzU1MDUxNw.GWaz6n.zkXNIiRyN5GawFWsD5Bi3j7l4l4mV8LeDlY8QC"
 MEMBER_ROLE_ID = 1424459150171045969
 
 intents = discord.Intents.default()
