@@ -4,7 +4,7 @@ import asyncio
 import logging
 
 # Конфигурация бота
-DISCORD_BOT_TOKEN = ""MTEzMzE0MTk0MTg1NzU1MDUxNw.GIKXct.h04_HH3wv067mLqmF0DU5tdbD4rMIwoyYCJh8S
+DISCORD_BOT_TOKEN = "MTEzMzE0MTk0MTg1NzU1MDUxNw.GIKXct.h04_HH3wv067mLqmF0DU5tdbD4rMIwoyYCJh8S"
 MEMBER_ROLE_ID = 1424459150171045969
 
 # Настройка логирования
